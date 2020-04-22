@@ -5,7 +5,7 @@ Anonymous Repository
 
 This repository is hosted to show how to practially implement the methods discussed this report on heterogeneous stochastic epidemic models. It includes extra work that the author has created that was not included in the report. 
 
-This report includes Python implementations of the following topics:
+This report includes Python implementations of the following topics, which can be viewed as the html files below:
 - General introduction to stochastic models [here]
 - Basic stochastic SIR mode [here]
 - Temporal Gillespie algorithm [here]
@@ -14,5 +14,6 @@ This report includes Python implementations of the following topics:
 - Two-Type Stochastic SIR model (Allen & Nandi, 2018) [here]
 - Multi-Type SIR, Type and Contact Importance [here]
 
+We also include the .ipynb files so that a reader can fork this repository and make alterations to the models.
 
 Unfortunately, due to the limited upload size of GitHub, the author was unable to upload the full data files for the simulation models used to produce the final graphs. If an interested reader would like access to this data, please contact my superisor Robin Thompson who can then contact myself (as to not break anonymity). 
