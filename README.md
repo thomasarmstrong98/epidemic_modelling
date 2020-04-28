@@ -5,15 +5,15 @@ Anonymous Repository
 
 This repository is hosted to show how to practially implement the methods discussed this report on heterogeneous stochastic epidemic models. It includes extra work that the author has created that was not included in the report. 
 
-This report includes Python implementations of the following topics, which can be viewed as the html files below:
-- General introduction to stochastic models [here]
-- Basic stochastic SIR mode [here]
-- Temporal Gillespie algorithm [here]
-- Exponential decay contact model (without simulation data) [here]
-- Cyclical contact model (without simulation data) [here]
-- Two-Type Stochastic SIR model (Allen & Nandi, 2018) [here]
-- Multi-Type SIR, Type and Contact Importance [here]
+This report includes Python implementations of the following topics, which can be viewed as the pdf and ipynb files below:
+- General introduction to stochastic models [pdf](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/pdf_of_notebooks/intro_stochastic_models.pdf) [ipynb]()
+- Basic stochastic SIR mode [pdf](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/pdf_of_notebooks/basic_stochastic_sir.pdf)
+- Temporal Gillespie algorithm [pdf](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/pdf_of_notebooks/time_dependent_gillespie.pdf)
+- Exponential decay contact model (without simulation data) [pdf](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/pdf_of_notebooks/exponential_contact_model.pdf)
+- Cyclical contact model (without simulation data) [pdf](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/pdf_of_notebooks/cosine_contact_model.pdf)
+- Two-Type Stochastic SIR model (Allen & Nandi, 2018) [pdf](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/pdf_of_notebooks/stochastic_two_group_model.pdf)
+- Multi-Type SIR, Type and Contact Importance [pdf](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/pdf_of_notebooks/e_val_multi_group_model.pdf)
 
-We also include the .ipynb files so that a reader can fork this repository and make alterations to the models.
+We also include the .ipynb files so that a reader can fork this repository and make alterations to the models. Sometimes the latex compiling of notebook have some errors when rendered on GitHub, in this case please view the pdf file.
 
 Unfortunately, due to the limited upload size of GitHub, the author was unable to upload the full data files for the simulation models used to produce the final graphs. If an interested reader would like access to this data, please contact my superisor Robin Thompson who can then contact myself (as to not break anonymity). 
