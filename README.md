@@ -3,7 +3,7 @@
 
 Anonymous Repository
 
-This repository is hosted to show how to practially implement the methods discussed this report on heterogeneous stochastic epidemic models. It includes extra work that the author has created that was not included in the report. 
+This repository is hosted to show how to practially implement the methods discussed [this] report on heterogeneous stochastic epidemic models. It includes extra work that the author has created that was not included in the report. 
 
 This report includes Python implementations of the following topics, which can be viewed as the pdf and ipynb files below:
 - General introduction to stochastic models: [[pdf]](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/pdf_of_notebooks/intro_stochastic_models.pdf), [[ipynb]](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/pdf_of_notebooks/intro_stochastic_models.ipynb)
@@ -17,3 +17,8 @@ This report includes Python implementations of the following topics, which can b
 We also include the .ipynb files so that a reader can fork this repository and make alterations to the models. Sometimes the latex compiling of notebook have some errors when rendered on GitHub, in this case please view the pdf file.
 
 Unfortunately, due to the limited upload size of GitHub, the author was unable to upload the full data files for the simulation models used to produce the final graphs. If an interested reader would like access to this data, please contact my superisor Robin Thompson who can then contact myself (as to not break anonymity). 
+
+Heterogeneity in Stochastic Epidemic Models - 1041671: [[pdf]]
+
+**Acknowledgement**
+The author would like to thank their supervisor, Dr. Robin Thompson for his support and direction throughout the duration of this report. In addition to excellent project guidance, they found the discussions regarding the real-world applications of epidemiology to highlight the importance of mathematical research.
