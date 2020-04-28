@@ -6,7 +6,7 @@ Anonymous Repository
 This repository is hosted to show how to practially implement the methods discussed this report on heterogeneous stochastic epidemic models. It includes extra work that the author has created that was not included in the report. 
 
 This report includes Python implementations of the following topics, which can be viewed as the pdf and ipynb files below:
-- General introduction to stochastic models [pdf](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/pdf_of_notebooks/intro_stochastic_models.pdf) [ipynb]()
+- General introduction to stochastic models [[pdf]](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/pdf_of_notebooks/intro_stochastic_models.pdf) [ipynb]()
 - Basic stochastic SIR mode [pdf](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/pdf_of_notebooks/basic_stochastic_sir.pdf)
 - Temporal Gillespie algorithm [pdf](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/pdf_of_notebooks/time_dependent_gillespie.pdf)
 - Exponential decay contact model (without simulation data) [pdf](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/pdf_of_notebooks/exponential_contact_model.pdf)
