@@ -3,7 +3,7 @@
 
 Anonymous Repository
 
-This repository is hosted to show how to practially implement the methods discussed [this](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/dissertation_final_draft.pdf) report on heterogeneous stochastic epidemic models. It includes extra work that the author has created that was not included in the report. 
+This repository is hosted to show how to practially implement the methods discussed in [this](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/dissertation_final_draft.pdf) report on heterogeneous stochastic epidemic models. It includes extra work that the author has created that was not included in the report. 
 
 This report includes Python implementations of the following topics, which can be viewed as the pdf and ipynb files below:
 - General introduction to stochastic models: [[pdf]](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/pdf_of_notebooks/intro_stochastic_models.pdf), [[ipynb]](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/notebooks/intro_stochastic_models.ipynb)
@@ -21,4 +21,4 @@ Unfortunately, due to the limited upload size of GitHub, the author was unable t
 Heterogeneity in Stochastic Epidemic Models - 1041671: [[pdf]](https://github.com/thomasarmstrong98/epidemic_modelling/blob/master/dissertation_final_draft.pdf)
 
 **Acknowledgement**
-The author would like to thank their supervisor, Dr. Robin Thompson for his support and direction throughout the duration of this report. In addition to excellent project guidance, they found the discussions regarding the real-world applications of epidemiology to highlight the importance of mathematical research.
+The author would like to thank their supervisor, Dr. Robin Thompson for his support and direction throughout the duration of this report. In addition to excellent project guidance, they found his discussions regarding the real-world applications of epidemiology to highlight the importance of mathematical research.
